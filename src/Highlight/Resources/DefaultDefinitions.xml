@@ -5890,7 +5890,7 @@
     <pattern name="BlockComment" type="block" beginsWith="/*" endsWith="*/">
       <font name="Courier New" size="11" style="regular" foreColor="teal" backColor="transparent"/>
     </pattern>
-    <pattern name="String" type="block" beginsWith="'" endsWith="'">
+    <pattern name="String" type="block" beginsWith="&amp;#39;" endsWith="&amp;#39;">
       <font name="Courier New" size="11" style="regular" foreColor="red" backColor="transparent"/>
     </pattern>
   </definition>
